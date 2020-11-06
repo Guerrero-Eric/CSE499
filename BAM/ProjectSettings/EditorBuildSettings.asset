@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/3D Viewer/3D Viewer.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Flashcards/Flashcards.unity
     guid: 51f1ac87ab2499d41b4acaf400f2a8bd
+  - enabled: 0
+    path: Assets/Scenes/Flashcards/Section1/Section 1.unity
+    guid: 81fa9bb353ab32344b2c6c8cb20e22a6
+  - enabled: 1
+    path: Assets/Scenes/Flashcards/Section 2/Section 2.unity
+    guid: 2ef2995bf04bb3a459fcab4e81eba862
   m_configObjects: {}
